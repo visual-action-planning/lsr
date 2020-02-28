@@ -3284,6 +3284,10 @@ input, select, textarea {
 			min-height: 100vh;
 		}
 
+		.full-image{
+			width:100%; 
+		}
+
 			body.is-ie .wrapper.fullscreen {
 				height: 100vh;
 			}
