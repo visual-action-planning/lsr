@@ -2559,6 +2559,16 @@ input, select, textarea {
 					color: #953d75;
 				}
 
+				.wrapper.style7 .icon.major:before {
+					color: rgba(25, 40, 67, 255);
+				}
+
+				.wrapper.style7-alt .icon.major:before {
+					color: rgba(25, 40, 67, 255);
+				}
+
+				
+
 /* Image */
 
 	.image {
@@ -2867,7 +2877,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.35);
+		color: #162844;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -3268,6 +3278,13 @@ input, select, textarea {
 			background-color: #953d75;
 		}
 
+ 		.wrapper.style7 {
+			color: rgba(25, 40, 67, 255);
+		}
+
+		.wrapper.style7-alt {
+			color: rgba(25, 40, 67, 255);
+		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -3379,7 +3396,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: rgba(25, 40, 67, 255); /*#5e42a6;*/
 		cursor: default;
 		padding: 1.75em 2em;
 	}
