@@ -3938,3 +3938,10 @@ input, select, textarea {
 .overview-video{
 	max-width:640px; 
 }
+
+.p-code{
+	background-color: #b8b8ce;
+	padding: 10px;
+	color: #162844;	
+	border-radius: 10px;
+}
